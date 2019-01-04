@@ -49,5 +49,5 @@ To thine own self be true, and it must follow, as the night the day, thou canst 
 
 ## Authors
 
-* **David Goldstein** 
+* **David Goldstein** - [DavidCharlesGoldstein.com](http://www.davidcharlesgoldstein.com/?github-homebrew-encyptor) - [Decipher Technology Studios](http://deciphernow.com/)
 
